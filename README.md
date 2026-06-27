@@ -47,3 +47,16 @@ Summary: Formulated an inventory aging and liquidity script using nested conditi
 Finding: Isolated €50,540.00 in high-risk dead stock frozen on shelves for over 90 days, with 7 out of 8 stalled inventory items localized entirely within Warehouse Zone C, and high-value 4K Projectors driving 31% of the total capital at risk.
 
 Recommendation: Execute targeted promotional liquidation cascades to flush out stagnant Zone C furniture assets, and optimize procurement frequencies for the electronics tier to minimize environmental holding and electricity overhead costs.
+
+6. Uber : Dynamic surge pricing efficiency audit
+
+Project: Ride-Hailing Marketplace Liquidity & Dynamic Surge Pricing Optimization
+
+Summary: Engineered a multi-layered marketplace analytics framework using conditional aggregation (CASE WHEN) to audit supply-demand friction points and evaluate price elasticity during weather shocks.
+
+Finding: Uncovered that 69.1% of all rider drop-off leakage (4,150 INR) was localized entirely at the Airport Terminal during Heavy Rain hours, where the surge multiplier spiked to an aggressive, demand-killing 2.5x average. Conversely, isolated an underpricing issue at the Tech Park Hub, leaking 800 INR due to direct driver rejections from low financial incentives.
+
+Recommendation: Deploy a localized surge multiplier ceiling of 2.0x at the Airport Terminal during weather alerts to prevent app abandonment, and implement an automated driver base-bounty increase at the Tech Park Hub to boost ride acceptance rates without raising passenger prices.
+
+
+
