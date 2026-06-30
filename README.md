@@ -58,5 +58,12 @@ Finding: Uncovered that 69.1% of all rider drop-off leakage (4,150 INR) was loca
 
 Recommendation: Deploy a localized surge multiplier ceiling of 2.0x at the Airport Terminal during weather alerts to prevent app abandonment, and implement an automated driver base-bounty increase at the Tech Park Hub to boost ride acceptance rates without raising passenger prices.
 
+7. Food Delivery Fleet Operations
+   
+Project: Food Delivery Fleet Thermal Management & Cold-Chain Logistics Variance Audit
 
+Summary: Engineered an operational logistics tracking model using string wildcard pattern-matching (LIKE '%Refunded%') and conditional metrics to evaluate transit velocity bottlenecks and thermal breakdown parameters across various municipal restaurant zones and vehicle asset classes.
 
+Finding: Discovered that a massive 93.75% of all spoiled food orders (15 out of 16 refunds) were driven exclusively by the Motorbike fleet, which averaged an inefficient 34.53 minutes in transit, allowing cold items to warm up by a critical 6.47°C beyond safe boundaries. Conversely, E-Bikes achieved a flawless 100% completion rate with zero spoilage, navigating urban routes in an elite average time of 17.50 minutes.
+
+Recommendation: Execute a systematic fleet asset migration by replacing standard motorbikes with agile E-Bikes for short-range urban delivery grids to cut trip latency in half. Additionally, mandate active, battery-powered IoT thermal cooling containers for long-range corridors like the Coastal Strip to isolate food temperatures from transit delays.
