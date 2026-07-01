@@ -67,3 +67,13 @@ Summary: Engineered an operational logistics tracking model using string wildcar
 Finding: Discovered that a massive 93.75% of all spoiled food orders (15 out of 16 refunds) were driven exclusively by the Motorbike fleet, which averaged an inefficient 34.53 minutes in transit, allowing cold items to warm up by a critical 6.47°C beyond safe boundaries. Conversely, E-Bikes achieved a flawless 100% completion rate with zero spoilage, navigating urban routes in an elite average time of 17.50 minutes.
 
 Recommendation: Execute a systematic fleet asset migration by replacing standard motorbikes with agile E-Bikes for short-range urban delivery grids to cut trip latency in half. Additionally, mandate active, battery-powered IoT thermal cooling containers for long-range corridors like the Coastal Strip to isolate food temperatures from transit delays.
+
+8. Ad Campaign Audit - Budget allocation among channels
+
+Project: SaaS Customer Acquisition Cost (CAC) Efficiency & Ad Spend Attribution Audit
+
+Summary: Formulated a multi-layered marketing conversion funnel and attribution pipeline using advanced multi-conditional aggregation logic (CASE WHEN ... AND ...) to audit capital waste, revenue yields, and platform device biases across multiple digital ad networks.
+
+Finding: Uncovered an extreme platform-device divide: B2B acquisition models (LinkedIn & Google Ads) returned massive efficiency profiles, with Google Ads driving a peak 267.87% ROAS and LinkedIn generating €2,092 in revenue, heavily supported by desktop users shifting to high-tier Enterprise contracts. Conversely, consumer networks (Meta & YouTube Ads) created high capital waste (€290 combined), converting exclusively onto lower-margin Basic or Standard mobile app tiers.
+
+Recommendation: Re-allocate 35% of the mobile-centric ad spend budget away from Meta and redirect it into LinkedIn and Google Ads desktop search campaigns to target premium enterprise leads. Additionally, optimize the mobile checkout conversion path for YouTube/Meta arrivals to mitigate high dropout rates and maximize baseline app subscription margins.
