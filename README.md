@@ -77,3 +77,17 @@ Summary: Formulated a multi-layered marketing conversion funnel and attribution 
 Finding: Uncovered an extreme platform-device divide: B2B acquisition models (LinkedIn & Google Ads) returned massive efficiency profiles, with Google Ads driving a peak 267.87% ROAS and LinkedIn generating €2,092 in revenue, heavily supported by desktop users shifting to high-tier Enterprise contracts. Conversely, consumer networks (Meta & YouTube Ads) created high capital waste (€290 combined), converting exclusively onto lower-margin Basic or Standard mobile app tiers.
 
 Recommendation: Re-allocate 35% of the mobile-centric ad spend budget away from Meta and redirect it into LinkedIn and Google Ads desktop search campaigns to target premium enterprise leads. Additionally, optimize the mobile checkout conversion path for YouTube/Meta arrivals to mitigate high dropout rates and maximize baseline app subscription margins.
+
+9. Flight Delay and High Value Passengers Attrition
+
+Project: Aviation Fleet Delay Penalties & Passenger Attrition Risk Audit
+
+Summary: Built an aviation performance pipeline utilizing strict multi-conditional aggregation logic (CASE WHEN ... AND ...) to analyze regulatory delay compensation costs and brand attrition loyalty risks across multiple international transit hubs and aircraft asset classes.
+
+Finding: Discovered that a single widebody asset class—the Boeing 777 fleet—anchored a massive 64.4% of total corporate financial penalties (€7,600) due to a severe average flight delay of 4.7 hours. While London Heathrow (LHR) and Paris (CDG) drove the highest absolute penalty payouts, a corrected risk matrix revealed Frankfurt Airport (FRA) as our most volatile hub, tracking 2 out of the network's 4 critical premium passenger attrition incidents.
+
+Recommendation: Implement localized ground turnaround optimization rules at Frankfurt (FRA) to protect high-value traveler timelines. Additionally, establish an automated CRM alert system to deliver proactive premium care interventions to First and Business class passengers when terminal delays cross 2.5 hours on both long-haul (Boeing 777) and short-haul (Airbus A320) flights.
+
+
+
+
