@@ -88,6 +88,15 @@ Finding: Discovered that a single widebody asset class—the Boeing 777 fleet—
 
 Recommendation: Implement localized ground turnaround optimization rules at Frankfurt (FRA) to protect high-value traveler timelines. Additionally, establish an automated CRM alert system to deliver proactive premium care interventions to First and Business class passengers when terminal delays cross 2.5 hours on both long-haul (Boeing 777) and short-haul (Airbus A320) flights.
 
+10. Hospital Emergency Walkout Audit
+
+Project: Healthcare Emergency Department Flow & Patient Walkout Risk Audit
+
+Summary: Engineered a clinical throughput audit using SQL conditional aggregation and built an executive operations dashboard to analyze ED wait-time friction, treatment durations, and walkout rates across clinical departments.
+
+Finding: High-acuity departments (Cardiology & Neurology) achieved fast intake (<29 min wait times) and generated ₹1.23M (85.5% of total revenue) with zero walkouts. Conversely, Orthopedics faced a critical capacity bottleneck, averaging 86.11 minutes in wait time and driving a 44.4% walkout rate (4 out of 9 patients leaving without care).
+
+Recommendation: Deploy an express fast-track clinical lane for low-acuity Orthopedic and General Medicine patients to lower wait times below 45 minutes and prevent walkout revenue loss.
 
 
 
