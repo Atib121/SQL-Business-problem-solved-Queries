@@ -98,5 +98,15 @@ Finding: High-acuity departments (Cardiology & Neurology) achieved fast intake (
 
 Recommendation: Deploy an express fast-track clinical lane for low-acuity Orthopedic and General Medicine patients to lower wait times below 45 minutes and prevent walkout revenue loss.
 
+11. Ecommerce Return Orders Audit
+
+Project: E-Commerce Reverse Logistics Leakage & Cash-on-Delivery (COD) Friction Audit
+
+Summary: Built an e-commerce fulfillment audit in SQL using conditional aggregation and Power BI dashboards to track GMV realization, reverse-logistics cost leaks, and transit day friction across product categories and payment gateways.
+
+Finding: Identified that 100% of all delivery failures (23 orders) were driven exclusively by Cash on Delivery (COD) transactions, resulting in ₹6,670 in wasted forward and reverse freight costs. Fashion Apparel recorded a 75% return/refusal rate, with delivery delays (>6 days) strongly correlating with customer delivery refusals.
+
+Recommendation: Mandate automated OTP verification on all COD orders prior to dispatch, provide a 5% discount incentive for prepaid payment methods, and enforce strict 3-day courier delivery SLAs to reduce doorstep refusal rates.
+
 
 
